@@ -6,3 +6,7 @@ To reproduce -
 2. cd <this project>
 3. npm install
 4. cordova prepare
+
+The error is as follows -
+  
+Failed to restore plugin "cordova-plugin-device" from config.xml. You might need to try adding it again. Error: code: engine.platform or engine.scriptSrc is not defined in custom engine "cordova-electron" from plugin "cordova-plugin-device" for android warn
